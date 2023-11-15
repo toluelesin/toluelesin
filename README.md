@@ -22,6 +22,9 @@ Technology Stack
 <h2 align="center">
 My Stats
 </h2>
+(https://github-readme-stats.vercel.app/api?username=toluelesin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=toluelesin&theme=dark&hide_border=true" alt="GitHub Streak" />
