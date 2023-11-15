@@ -5,8 +5,11 @@ About Me 👋
 </h2>
 <p align ="center"> 
 👋 Hello there! I'm Tolu Elesin, a passionate 4th-year Mechanical Engineering student with a love for innovation and problem-solving. My journey revolves around merging theoretical knowledge with hands-on practicality to create real-world solutions.
+<p align ="center"> 
 🔧 My GitHub is a playground where I tinker with code and engineering concepts. From mechanical designs to coding projects, I'm driven by the curiosity to explore and learn.
+<p align ="center"> 
 🚀 Currently, I'm diving into a portfolio for myself, seeking to apply my skills in Python and JS.
+<p align ="center"> 
 🌟 Let's connect, collaborate, and bring ideas to life! Feel free to explore my repositories and drop me a message. Together, let's engineer a brighter future!
 
 <h3 align="left">Connect with me:</h3>
