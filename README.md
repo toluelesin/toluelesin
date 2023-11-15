@@ -11,10 +11,8 @@ About Me 👋
 🚀 Currently, I'm diving into a portfolio for myself, seeking to apply my skills in Python and JS.
 <p align ="center"> 
 🌟 Let's connect, collaborate, and bring ideas to life! Feel free to explore my repositories and drop me a message. Together, let's engineer a brighter future!
-
-<p>Paragraph content</p>
+<p></p>
 <br>
-
 <h2 align="center">
 Technology Stack
 </h2>
