@@ -1,6 +1,7 @@
 ### About Me 👋
 
 ![image](https://github.com/toluelesin/toluelesin/assets/114874184/0176a565-48fc-4471-b205-82a1d0eba1dd)
+![image](https://github.com/toluelesin/toluelesin/blob/main/banner.png)
 
 <!--
 **toluelesin/toluelesin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
