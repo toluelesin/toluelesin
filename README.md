@@ -3,8 +3,7 @@
 <h2 align = "center"> 
 About Me 👋
 </h2>
-
-<img align = "right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNhbmRocGhpZ2Nhd3Z5cmE2N28zZzZ6YmxzODBpOXZzaG50Y3R4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p></p>
 <p align ="center"> 
@@ -14,7 +13,7 @@ About Me 👋
 <p align ="center"> 
 🚀 Currently, I'm diving into a portfolio for myself, seeking to apply my skills in Python and JS.
 <p align ="center"> 
-🌟 Let's connect, collaborate, and bring ideas to life! Feel free to explore my repositories and drop me a message. Together, let's engineer a brighter future!
+🌟 Let's connect, collaborate, and bring ideas to life! Feel free to explore my repositories and drop me a message. 
 <p></p>
 <h2 align="center">
 Technology Stack
@@ -26,8 +25,8 @@ Technology Stack
 <h2 align="center">
 My Stats
 </h2>
-(https://github-readme-stats.vercel.app/api?username=toluelesin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-(https://github-readme-stats.vercel.app/api?username=toluelesin&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=toluelesin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+https://github-readme-stats.vercel.app/api?username=toluelesin&show_icons=true&theme=radical
 
 
 
