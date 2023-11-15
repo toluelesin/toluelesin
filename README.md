@@ -4,7 +4,7 @@
 About Me 👋
 </h2>
 <p align ="center"> 
-👋 Hello there! I'm Tolu Elesin, a passionate 4th-year Mechanical Engineering student with a love for innovation and problem-solving. My journey revolves around merging theoretical knowledge with hands-on practicality to create real-world solutions.
+👋 Hello there! I'm Tolu Elesin, a passionate 4th-year Mechanical Engineering student at 🎓 University College London with a love for innovation and problem-solving. My journey revolves around merging theoretical knowledge with hands-on practicality to create real-world solutions.
 <p align ="center"> 
 🔧 My GitHub is a playground where I tinker with code and engineering concepts. From mechanical designs to coding projects, I'm driven by the curiosity to explore and learn.
 <p align ="center"> 
