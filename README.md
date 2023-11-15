@@ -1,6 +1,6 @@
 ![image](https://github.com/toluelesin/toluelesin/blob/main/banner.png)
 
-<!-- <p align="center">
+<p align="center">
   ### About Me 👋
   
   👋 Hello there! I'm Tolu Elesin, a passionate 4th-year Mechanical Engineering student with a love for innovation and problem-solving. My journey revolves around merging theoretical knowledge with hands-on practicality to create real-world solutions.
