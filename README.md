@@ -10,6 +10,13 @@
 
 🌟 Let's connect, collaborate, and bring ideas to life! Feel free to explore my repositories and drop me a message. Together, let's engineer a brighter future!
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[your link](https://www.linkedin.com/in/toluelesin150602/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
 <!--
 **toluelesin/toluelesin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
