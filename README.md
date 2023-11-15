@@ -12,11 +12,15 @@ About Me 👋
 <p align ="center"> 
 🌟 Let's connect, collaborate, and bring ideas to life! Feel free to explore my repositories and drop me a message. Together, let's engineer a brighter future!
 
+
+
 <h2 align="center">
 Technology Stack
 </h2>
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h4 align="center">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/toluelesin150602/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tolu.elesin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
