@@ -18,10 +18,6 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=toluelesin&theme=dark&hide_border=true" alt="GitHub Streak" />
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
-</picture>
   </a>
 </p>
 <!--
