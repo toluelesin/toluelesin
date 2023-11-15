@@ -17,8 +17,6 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toluelesin&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=toluelesin&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <!--
 **toluelesin/toluelesin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
