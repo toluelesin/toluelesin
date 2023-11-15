@@ -3,7 +3,10 @@
 <h2 align = "center"> 
 About Me 👋
 </h2>
-<img align="right" alt="Coding" width="480" src="<https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+
+<img align = "right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
+<p></p>
 <p align ="center"> 
 👋 Hello there! I'm Tolu Elesin, a passionate 4th-year Mechanical Engineering student at 🎓 University College London with a love for innovation and problem-solving. My journey revolves around merging theoretical knowledge with hands-on practicality to create real-world solutions.
 <p align ="center"> 
