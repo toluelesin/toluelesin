@@ -16,10 +16,11 @@
 <a href="https://www.instagram.com/tolu.elesin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-<p align="center"> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toluelesin&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?         user=toluelesin&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=toluelesin&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 <!--
 **toluelesin/toluelesin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
