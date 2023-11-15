@@ -3,6 +3,7 @@
 <h2 align = "center"> 
 About Me 👋
 </h2>
+<img align="right" alt="Coding" width="480" src="<https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 <p align ="center"> 
 👋 Hello there! I'm Tolu Elesin, a passionate 4th-year Mechanical Engineering student at 🎓 University College London with a love for innovation and problem-solving. My journey revolves around merging theoretical knowledge with hands-on practicality to create real-world solutions.
 <p align ="center"> 
@@ -23,6 +24,8 @@ Technology Stack
 My Stats
 </h2>
 (https://github-readme-stats.vercel.app/api?username=toluelesin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+(https://github-readme-stats.vercel.app/api?username=toluelesin&show_icons=true&theme=radical)
+
 
 
 
